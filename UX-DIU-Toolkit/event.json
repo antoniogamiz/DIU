@@ -1,0 +1,62 @@
+{
+  "severity": "medium",
+  "createdDate": "Tue Feb 15 14:46:39 UTC 2022",
+  "topic": "instance-2785524-dynamicscrmadfs-events",
+  "action": "create",
+  "id": "1549231135",
+  "message": {
+    "elementKey": "dynamicscrmadfs",
+    "accountId": 179288,
+    "eventId": "AX792S9FDEymF-1Kg3I7",
+    "companyId": 60786,
+    "instanceId": 2785524,
+    "instance_id": 2785524,
+    "instanceName": "312198_user_191958",
+    "instanceTags": [
+      "prod"
+    ],
+    "raw": {
+      "pollDate": 1644936370865,
+      "customers": [
+        {
+          "country": "USA",
+          "custom_text_8": "a2106220-8ea0-e611-80f4-0050568e773c",
+          "custom_text_5": "SD / NE / IA",
+          "city": "CHAMBERLAIN",
+          "custom_text_4": "db796763-ee81-e511-8920-0050568e7ef8",
+          "custom_text_7": "SNF",
+          "owner_id": "005i0000007r1jtAAA",
+          "custom_text_6": "Lewis Family Drug",
+          "latitude": 43.78649,
+          "last_name": "SANFORD CHAMBERLAIN CARE CENTER",
+          "eventType": "CREATED",
+          "zip_code": "57325",
+          "custom_numeric_1": 44,
+          "street": "300 S BYRON BLVD",
+          "modification_date": "2022-02-15T14:20:16Z",
+          "original_address": "300 S BYRON BLVD\r\nCHAMBERLAIN, SD 57325\r\nUSA",
+          "phone_number": "(605) 234-6518",
+          "created_date": "2015-09-30T20:01:52Z",
+          "custom_text_2": "Non-Customer",
+          "state": "SD",
+          "customer_id": "db796763-ee81-e511-8920-0050568e7ef8",
+          "objectId": "db796763-ee81-e511-8920-0050568e7ef8"
+        }
+      ],
+      "pollerExecutionId": null,
+      "objectType": "customers"
+    },
+    "userId": 201616,
+    "events": [
+      {
+        "elementKey": "dynamicscrmadfs",
+        "pollDate": "2022-02-15T14:46:10Z",
+        "hubKey": "crm",
+        "objectType": "customers",
+        "eventType": "CREATED",
+        "objectId": "db796763-ee81-e511-8920-0050568e7ef8"
+      }
+    ]
+  },
+  "user": "notifications@cloud-elements.com"
+}

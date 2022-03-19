@@ -132,16 +132,16 @@ angular.module("angular", [])
                 goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
                 touch5: "Móvil",
                 feel5: "3",
-                con5: "Llama a su pareja, le gusta pero tiene miedo de socializar sola durante las primeras horas del día.",
+                con5: "Su pareja le dice que no le gustan mucho las webs que visita porque no dan demasiada información.",
                 ima5: "cartoon-phone.png",
 
 
                 /*** PASO #6: CONCLUSION ***/
 
-                goal6: "Al final reserva en el hostel más cercano a donde va a trabajar para evitar perder tiempo en el desplazamientos",
+                goal6: "Decide llamar a los tres sitios y reserva en el hostel que le ofrece mayor número de actividades",
                 touch6: "Ordenador (web)",
                 feel6: "2",
-                con6: "Ver las actividades disponibles es prácticamente imposible en la página web.",
+                con6: "Ha tenido que coger notas de las actividades ya que en las webs son practicamente imposible verlas.",
                 ima6: "cartoon-PCangry.png",
 
 			}

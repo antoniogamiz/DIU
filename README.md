@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   BA     :octocat:     
- * :bust_in_silhouette:  AG     :octocat:
+ * :bust_in_silhouette:   BA     :octocat: https://github.com/blancabgz  
+ * :bust_in_silhouette:  AG     :octocat: https://github.com/antoniogamiz   
 
 ----- 
 

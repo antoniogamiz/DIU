@@ -142,7 +142,7 @@ angular.module("angular", [])
                 touch6: "Ordenador (web)",
                 feel6: "2",
                 con6: "Ha tenido que coger notas de las actividades ya que en las webs son practicamente imposible verlas.",
-                ima6: "cartoon-PCangry.png",
+                ima6: "cartoon-thinking.png",
 
 			}
 		];

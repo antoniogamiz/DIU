@@ -88,9 +88,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 1 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Ser un empresario de éxito", "Disfrutar de su familia", "Aprender español"],
-				Frustrations: ["Dejar a su familia detrás en un viaje de negocios", "No asistir a fechas importantes (como un cumpleaños) debido al trabajo.", "La escasez de material médico tras la pandemia"],
-				Bio: "Es un empresario de éxito que le gusta viajar con su familia. Por lo tanto, su familia siempre lo acompaña a los viajes de negocios, pero no pueden estar con él durante las horas de trabajo. Por lo tanto, zonas de ocio y tours son fundametales para su pareja. Ha tenido que venir a Granada a distribuir medicamentos.",
+				Goals: ["Ser un empresario de éxito", "Disfrutar de su pareja", "Aprender español"],
+				Frustrations: ["Dejar a su pareja detrás en un viaje de negocios", "No asistir a fechas importantes (como un cumpleaños) debido al trabajo.", "La escasez de material médico tras la pandemia"],
+				Bio: "Es un empresario de éxito que le gusta viajar con su pareja y pasar tiempo con ella. Por lo tanto, esta siempre lo acompaña a los viajes de negocios, pero no pueden estar con él durante las horas de trabajo. Por lo tanto, zonas de ocio y tours son fundametales para ambos. Ha tenido que venir a Granada a distribuir medicamentos.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Mobile", Value: 3 },

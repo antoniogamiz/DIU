@@ -41,4 +41,6 @@ Si miramos las tres opciones para quedarnos en un Hostel, Hostel4U es uno de las
 - Aparcamiento: en Granada es muy importante el aparcamiento. Al estar en el centro, si traes coche, no tienes la posibilidad de aparcarlo pero en este hostel si encuentras esta disponibilidad. 
 - Lavandería: este hostel ofrece un servicio de lavandería que consideramos importante si vienes más de una semana, para poder lavar la ropa sin problema en el mismo hostel.
 
+## Personas
+
 

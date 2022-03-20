@@ -41,21 +41,27 @@ Hemos creado dos usuarios.
 Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere venir al hostel para conocer gente y la cultura de Granada. 
 ![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_UserPersona.png)
 Por otro lado está Steve, se trata de un perfil más adulto que quiere disfrutar tanto de su pareja como de su trabajo.
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_UserPersona.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 Se han escogida estas experiencias de usuario porque son comunes, el problema con el idioma, que no haya alojamiento y las diferentes actividades que pueden ofrecer. 
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_JourneyMap.png)
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_JourneyMap.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de 
+la usabilidad. 
 
+[Enlace (pdf)](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.pdf) 
+
+[Enlace (xls)](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.xls) 
+
+La valoración final ha sido 59/100.
+La web tiene fallos importantes de diseño ya que no se pueden ver todas las actividades y de pérdida del usuario porque contiene dos URLS (una para reserva y otra para página principal). Además tiene errores en formularios. 
 
 ## Paso 2. UX Design  
 

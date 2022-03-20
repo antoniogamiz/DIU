@@ -60,7 +60,7 @@ la usabilidad.
 
 [Enlace (xls)](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.xls) 
 
-La valoración final ha sido 59/100.
+La valoración final ha sido 62/100.
 La web tiene fallos importantes de diseño ya que no se pueden ver todas las actividades y de pérdida del usuario porque contiene dos URLS (una para reserva y otra para página principal). Además tiene errores en formularios. 
 
 ## Paso 2. UX Design  

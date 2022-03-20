@@ -36,10 +36,10 @@ El objetivo es realizar un analísis de Hotel4U con dos competidores del mismo s
 
 Si miramos las tres opciones para quedarnos en un Hostel, Hostel4U es uno de las mejores opciones. Este hostel ofrece: 
 
-- Variedad de idiomas: es uno de los más completos ya que implementa el ingles, y además perfectamente en todas sus páginas. Esto no suele suceder en la mayoría de páginas, donde el segundo idioma se implementa pero no correctamente.
-- Zona de copas: este hostel cuenta con un bar donde se pueden pedir copas y disfrutar de un rato agradable con amigos o familia. 
-- Aparcamiento: en Granada es muy importante el aparcamiento. Al estar en el centro, si traes coche, no tienes la posibilidad de aparcarlo pero en este hostel si encuentras esta disponibilidad. 
-- Lavandería: este hostel ofrece un servicio de lavandería que consideramos importante si vienes más de una semana, para poder lavar la ropa sin problema en el mismo hostel.
+- **Variedad de idiomas**: es uno de los más completos ya que implementa el ingles, y además perfectamente en todas sus páginas. Esto no suele suceder en la mayoría de páginas, donde el segundo idioma se implementa pero no correctamente.
+- **Zona de copas**: este hostel cuenta con un bar donde se pueden pedir copas y disfrutar de un rato agradable con amigos o familia. 
+- **Aparcamiento**: en Granada es muy importante el aparcamiento. Al estar en el centro, si traes coche, no tienes la posibilidad de aparcarlo pero en este hostel si encuentras esta disponibilidad. 
+- **Lavandería**: este hostel ofrece un servicio de lavandería que consideramos importante si vienes más de una semana, para poder lavar la ropa sin problema en el mismo hostel.
 
 ## Personas
 

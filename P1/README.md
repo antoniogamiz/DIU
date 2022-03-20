@@ -17,12 +17,12 @@ El objetivo es realizar un analísis de Hotel4U con dos competidores del mismo s
 ### Competidores
 
 - [https://oasisgranada.com/](https://oasisgranada.com/)
-- [http://www.ecohostel.es/](http://www.ecohostel.es/)
+- [https://www.elgranado.com/](https://www.elgranado.com/)
 - [https://www.hostelnut.com/es/](https://www.hostelnut.com/es/)
 
-| Feature | 4U Hostel | Hostel Nut
-| --- | --- | --- | --- | 
-| Variedad de precio | SI | SI | SI | 
+| Feature | 4U Hostel | Hostel Nut | El Granado |
+| --- | --- | --- | --- |
+| Variedad de precio | SI | SI | SI |
 | Opciones de pago variadas | NO | NO | NO |
 | Variedad de idiomas | NO | NO | NO |
 | Zona de copas | SI | NO | NO |
@@ -36,4 +36,3 @@ El objetivo es realizar un analísis de Hotel4U con dos competidores del mismo s
 | Mascotas | NO | SI | NO |
 | Cine | NO | SI | NO |
 | Intercambio de libros | NO | SI | NO |
-

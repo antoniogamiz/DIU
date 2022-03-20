@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_02BAAG.  Curso: 2021/22 
+Grupo: DIU2_02BAAG.  Curso: 2021/22 
 Updated: 19/3/2022
 
 Proyecto: 
@@ -32,18 +32,20 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Compararemos HostelU con otros dos hostels destacados de Granada. Hostel4U se diferencia de otras páginas en que es un hostel con muy buenos precios, que se encuentra en una zona histórica y está restaurado pero conserva su toque antiguo. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos creado dos usuarios.
+Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere venir al hostel para conocer gente y la cultura de Granada. 
+Por otro lado está Steve, se trata de un perfil más adulto que quiere disfrutar tanto de su pareja como de su trabajo.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Se han escogida estas experiencias de usuario porque son comunes, el problema con el idioma, que no haya alojamiento y las diferentes actividades que pueden ofrecer. 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----

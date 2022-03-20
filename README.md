@@ -39,7 +39,7 @@ Compararemos HostelU con otros dos hostels destacados de Granada. Hostel4U se di
 
 Hemos creado dos usuarios.
 Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere venir al hostel para conocer gente y la cultura de Granada. 
-(P1/Sophie_UserPersona.png)
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_UserPersona.png)
 Por otro lado está Steve, se trata de un perfil más adulto que quiere disfrutar tanto de su pareja como de su trabajo.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map

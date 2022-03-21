@@ -41,6 +41,29 @@ Si miramos las tres opciones para quedarnos en un Hostel, Hostel4U es uno de las
 - **Aparcamiento**: en Granada es muy importante el aparcamiento. Al estar en el centro, si traes coche, no tienes la posibilidad de aparcarlo pero en este hostel si encuentras esta disponibilidad. 
 - **Lavandería**: este hostel ofrece un servicio de lavandería que consideramos importante si vienes más de una semana, para poder lavar la ropa sin problema en el mismo hostel.
 
+HostelU no te da la posibilidad de llevar a tu mascota, no tiene cine para poder ver películas con los otros residentes y no tiene cocina, por lo que tienes que comer en el bar o buscar algún sitio en Granada. Esto último no está mal, Granada cuenta con muchos bares donde tapear y poder ir con otros residentes a bajo coste.  
+
 ## Personas
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_UserPersona.png)
+
+* Sophie: la hemos escogido porque cuenta con un perfil solitario. Ella viaja a Granada por amor a la historia, el buen tiempo y conocer gente ya que ella vive en un pueblo de los Alpes. Su vida es algo solitaria porque vive en un pueblo y teletrabaja, por lo que en sus vacaciones busca lugares con sol y monumentos. Decidió alojarse en un hostel porque es una oportunidad muy buena de conocer gente y realizar actividades diferentes. Este perfil es bastante común y hemos querido tenerlo en cuenta porque va a ser lo más habitual de ver en un hostel. 
+
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_UserPersona.png)
+* Steve: hemos escogido el perfil de Steve ya que es un hombre de negocios que tiene pareja. El es un comercial que tiene que viajar a Granada por negocios pero no quiere dejar a su pareja atrás. Ella no tiene ningún problema en acompañarlo a los viajes pero no se quiere aburrir sola durante las horas que el se encuentre de reunión. Steve soluciona esto buscando un hostel donde se puedan alojar y que ella esté entretenida conociendo a gente y realizando diversas actividades. Este perfil es algo menos común, pero se puede dar y no debe ser ignorado.
+
+
+## User Journey Map
+
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_JourneyMap.png)
+* Sophie: Como se puede ver, para este tipo de usuario es muy importante tener un sistema de contacto accesible, promocionar bien el hostel y que el idioma no sea un impedimento. Para tener esto basta con tener un buen trato con el cliente a través del teléfono y quizás una zona de preguntas y respuestas dentro de la web. Además es importante tener una sección para poder ver de una vista si el hostel está completo a modo de calendario. 
+
+
+![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_JourneyMap.png)
+
+* Steve: Para este tipo de usuario es muy importante tener accesible dentro de la web todas las actividades que se puedan hacer en el hostel de cara a la competencia. Además, como en el caso anterior, también es muy importante un buen servicio al cliente para poder resolver sus dudas. 
+
+## Revisión de Usabilidad 
+
+
 
 

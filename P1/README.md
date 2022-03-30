@@ -63,7 +63,11 @@ HostelU no te da la posibilidad de llevar a tu mascota, no tiene cine para poder
 * Steve: Para este tipo de usuario es muy importante tener accesible dentro de la web todas las actividades que se puedan hacer en el hostel de cara a la competencia. Además, como en el caso anterior, también es muy importante un buen servicio al cliente para poder resolver sus dudas. 
 
 ## Revisión de Usabilidad 
+En la revisión de usabilidad la web ha obtenido una valoración final de 62 puntos. 
+
+Hostel 4U cuenta con una página completa pero que cuenta con algunos fallos importantes. Entre ellos se encuentra que el diseño de las páginas no carga correctamente, los formularios tienen la letra en blanco con fondo blanco lo que hace dificil su lectura y además no marcan los campos obligatorios a rellenar. Por último, tenemos el problema de que la web principal lleva a una web de reservas que aparentemente es la misma pero con otra URL, y si intentas volver a la principal por el logo, te redirige al inicio de la web de reservas, lo que puede crear confunsión al cliente que la utiliza.
 
 
 
+- [https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.pdf](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.pdf)
 

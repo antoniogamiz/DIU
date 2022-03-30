@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) {
-		$scope.Grupo_ID ="DIU2.RAYSE";
+		$scope.Grupo_ID ="DIU3.RAYSE";
         $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/antoniogamiz/DIU";
 

@@ -32,10 +32,17 @@ El usuario dispondrá de dos secciones diferentes donde consultar información m
 ### TASK ANALYSIS
 
 ![user task matrix](./user-matrix.png)
+Hemos decidido categorizar a los usuarios que puedan acudir a nuestro hotel como: 
+ 
+- Familias
+- Personales individuales
+- Grupos grandes
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 ![sitemap](./sitemap.png)
+En el sitemap se puede ver el flujo de la página donde el usuario puede ver las actividades que se ofertan y las instalaciones del hostel, así como también se le da la posibilidad de realizar la reserva.
+
 
 ### Prototipo Lo-FI Wireframe
 
@@ -45,5 +52,4 @@ El usuario dispondrá de dos secciones diferentes donde consultar información m
 ![](./instalaciones.png)
 ![](./reserva.png)
 
-### Conclusiones
 

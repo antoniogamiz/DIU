@@ -17,6 +17,7 @@ Para realizarlo hemos usado Protopie.
 Para el logotipo hemos diseñado dos tipos de logotipos y tras revisarlos, hemos decidido quedarnos con el primero ya que llama más la atención y potencia el nombre del hostel.
 
 Logos iniciales:
+
 ![Logotipo inicial](./logotipo.png)
 ![Logotipo inicial](./logotipo2.png)
 

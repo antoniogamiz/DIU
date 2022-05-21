@@ -20,7 +20,9 @@ Logos iniciales:
 ![Logotipo inicial](./logotipo.png)
 ![Logotipo inicial](./logotipo2.png)
 
+
 El logo finalmente escogido:
+
 ![Logotipo inicial](./logotipo.png)
 
 

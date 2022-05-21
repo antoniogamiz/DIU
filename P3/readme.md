@@ -24,8 +24,24 @@ Logos iniciales:
 
 El logo finalmente escogido:
 
-![Logotipo inicial](./logotipo.png)
+![Logotipo final](./logotipo.png)
 
+### Paleta de colores
+A partir de las imagenes de inspiración del Moodboard, hemos creado la siguiente paleta de colores. Al ser una página donde se ofertan actividades hemos visto que el verde y las tonalidades marrones nos recuerdan a la naturaleza (actividades en la naturaleza) y a los monumentos y zonas turísticas (actividades culturales).
+
+![Paleta de colores](./paleta_colores.png)
+
+Los códigos hexadecimales son: 
+- Negro #000000
+- Verde #70877F
+- Salmón #E59F71
+- Teja #942911
+- Beige #E9D2C0
+
+### Iconos
+
+Los iconos que hemos elegido pensamos que en tono oscuro pueden quedar bien en la web y representan el tipo de actividad mediante un icono. 
+![Iconos](./iconos.png)
 
 
 ## Mockup: LAYOUT HI-FI

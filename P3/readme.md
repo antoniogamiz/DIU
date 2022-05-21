@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
-
+Creamos un tablón con las diferentes ideas para llevar a cabo el estilo visual final. En él hemos plasmado los logos posibles, la tipografía que hemos elegido, la paleta de colores e imagenes junto con iconos de inspiración. 
 
 ## Landing Page
 

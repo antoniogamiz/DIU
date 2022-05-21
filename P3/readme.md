@@ -40,9 +40,20 @@ Los códigos hexadecimales son:
 
 ### Iconos
 
-Los iconos que hemos elegido pensamos que en tono oscuro pueden quedar bien en la web y representan el tipo de actividad mediante un icono. 
+Los iconos que hemos elegido pensamos que en tono oscuro pueden quedar bien en la web. Estos iconos son representativos y simples, por tanto pueden hacer que el usuario de un solo vistazo pueda localizar las actividades del tema que le interesan.
+
 ![Iconos](./iconos.png)
 
+### Tipografía
+
+En esta ocasión hemos marcado tres tipos diferentes de caligrafía.
+
+- Títulos: se usaría Fira Sans Extrabold ya que es una tipografía Sans que es legible en todos sus formatos y es atractiva a la vista. 
+- Subtítulos: usaríamos el mismo tipo que la anterior pero en su versión Fira Sans Bold.
+- Texto: Lato es un tipo de letra que se recomienda en textos digitales debido a su neutralidad y funcionalidad. 
+
+![Tipografía](./tipografia.png)
+![Muestra](./demostracion.png)
 
 ## Mockup: LAYOUT HI-FI
 

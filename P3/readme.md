@@ -57,9 +57,9 @@ En esta ocasión hemos marcado tres tipos diferentes de caligrafía.
 
 ## Mockup: LAYOUT HI-FI
 
+Con los prototipos y el moodboard hemos creado con ProtoPie el Mockup de web donde se pueden observar las diferentes actividades que se ofertan, filtrarlas, y acceder dentro de cada actividad a su descripción y fotografías. 
+
+Se puede ver en el siguiente link: - [https://cloud.protopie.io/p/b8f782c511](https://cloud.protopie.io/p/b8f782c511)
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  

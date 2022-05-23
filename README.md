@@ -1,69 +1,69 @@
 # DIU22
-Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
+Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 
-Grupo: DIU2_02BAAG.  Curso: 2021/22 
+Grupo: DIU2.RAYSE.  Curso: 2021/22
 Updated: 19/3/2022
+Proyecto: 4U Hostel
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+## Descripción:
 
-Descripción: 
+El microsite web que vamos a diseñar consiste en un sitio web en el que los distintos clientes interesados en visitar nuestro hostel puedan encontrar todas las actividades que se ofertan, incluyendo numerosos detalles de cada una de las actividades. Además, vamos a hacer especial hincapié en mantener los puntos fuertes de la página principal del hostel. De esta manera, podremos animar al usuario objetivo a que reserve.
 
->>> Describa la idea de su producto en la práctica 2 
+Las funciones principales del microsite son anunciar las diferentes actividades disponibles de la forma más atractiva posible. Esto se realizará mediante la muestra de imágenes descriptivas de las actividades. Estas actividades serán ordenadas según el interés del usuario y fecha cercana a la actual. Por último, pondremos un botón de reserva visible y atractivo para que el usuario pueda reservar.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Se dará la posibilidad de reservar una actividad y si se hace con antelación, bonificar con un descuento en la reserva. De esta manera, animamos al usuario tanto a asistir a la actividad reservando con antelación y sabiendo el número de gente que puede asistir, y además garantizar la diferenciación con la competencia.
+
+## Logotipos
+
+![](./P3/logotipo.png)
+![](./P3/logotipo2.png)
+
 
 Miembros
- * :bust_in_silhouette:   BA     :octocat: https://github.com/blancabgz  
- * :bust_in_silhouette:  AG     :octocat: https://github.com/antoniogamiz   
+ * :bust_in_silhouette:   BA     :octocat: https://github.com/blancabgz
+ * :bust_in_silhouette:  AG     :octocat: https://github.com/antoniogamiz
 
------ 
+-----
 
+# Proceso de Diseño
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
-# Proceso de Diseño 
-
-## Paso 1. UX Desk Research & Analisis 
+## Paso 1. UX Desk Research & Analisis
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Compararemos HostelU con otros dos hostels destacados de Granada. Hostel4U se diferencia de otras páginas en que es un hostel con muy buenos precios, que se encuentra en una zona histórica y está restaurado pero conserva su toque antiguo. 
+Compararemos Hostel4U con otros dos hostels destacados de Granada. Hostel4U se diferencia de otras páginas en que es un hostel con muy buenos precios, que se encuentra en una zona histórica y está restaurado pero conserva su toque antiguo.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 Hemos creado dos usuarios.
-Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere venir al hostel para conocer gente y la cultura de Granada. 
-![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_UserPersona.png)
+Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere venir al hostel para conocer gente y la cultura de Granada.
+![Image text](.P1/Sophie_UserPersona.png)
 Por otro lado está Steve, se trata de un perfil más adulto que quiere disfrutar tanto de su pareja como de su trabajo.
-![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_UserPersona.png)
+![Image text](.P1/Steve_UserPersona.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Se han escogida estas experiencias de usuario porque son comunes, el problema con el idioma, que no haya alojamiento y las diferentes actividades que pueden ofrecer. 
-![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Sophie_JourneyMap.png)
-![Image text](https://github.com/antoniogamiz/DIU/blob/master/P1/Steve_JourneyMap.png)
+Se han escogida estas experiencias de usuario porque son comunes, el problema con el idioma, que no haya alojamiento y las diferentes actividades que pueden ofrecer.
+![Image text]./P1/Sophie_JourneyMap.png)
+![Image text](./P1/Steve_JourneyMap.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de 
-la usabilidad. 
+Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de
+la usabilidad.
 
-[Enlace (pdf)](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.pdf) 
+[Enlace (pdf)](./P1/Usability-review-template.pdf)
 
-[Enlace (xls)](https://github.com/antoniogamiz/DIU/blob/master/P1/Usability-review-template.xls) 
+[Enlace (xls)](./P1/Usability-review-template.xls)
 
 La valoración final ha sido 62/100.
-La web tiene fallos importantes de diseño ya que no se pueden ver todas las actividades y de pérdida del usuario porque contiene dos URLS (una para reserva y otra para página principal). Además tiene errores en formularios. 
+La web tiene fallos importantes de diseño ya que no se pueden ver todas las actividades y de pérdida del usuario porque contiene dos URLS (una para reserva y otra para página principal). Además tiene errores en formularios.
 
-## Paso 2. UX Design  
+## Paso 2. UX Design
 
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
@@ -73,11 +73,11 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesante | Críticas
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -87,21 +87,21 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "User Map" y "Task Flow" ...
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
 
->>> Identificar términos para diálogo con usuario  
+>>> Identificar términos para diálogo con usuario
 
-Término | Significado     
+Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
@@ -109,7 +109,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -119,7 +119,7 @@ Término | Significado
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
+>>> Plantear Diseño visual con una guía de estilos visual (moodboard)
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
@@ -128,13 +128,13 @@ Término | Significado
 ----
 
 
->>> Plantear Landing Page 
+>>> Plantear Landing Page
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Estudio de Guidelines y Patrones IU a usar
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -150,7 +150,7 @@ Término | Significado
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
-## Paso 4. Evaluación 
+## Paso 4. Evaluación
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
@@ -164,14 +164,14 @@ Término | Significado
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -181,7 +181,7 @@ Término | Significado
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
@@ -191,21 +191,21 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
->>> Valoración personal 
+>>> Valoración personal
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
+>>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
 >>>> ----
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
+>>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
+>>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
+>>> 5.b) Uso de simuladores de accesibilidad
 
->>> (uso de tabla de datos, indicar herramientas usadas) 
+>>> (uso de tabla de datos, indicar herramientas usadas)
 
 >>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
@@ -214,7 +214,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
 
 
 

@@ -5,7 +5,7 @@ Grupo: DIU2.RAYSE.  Curso: 2021/22
 Updated: 19/3/2022
 Proyecto: 4U Hostel
 
-## Descripción:
+## Descripción
 
 El microsite web que vamos a diseñar consiste en un sitio web en el que los distintos clientes interesados en visitar nuestro hostel puedan encontrar todas las actividades que se ofertan, incluyendo numerosos detalles de cada una de las actividades. Además, vamos a hacer especial hincapié en mantener los puntos fuertes de la página principal del hostel. De esta manera, podremos animar al usuario objetivo a que reserve.
 
@@ -29,12 +29,12 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+### ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
 Compararemos Hostel4U con otros dos hostels destacados de Granada. Hostel4U se diferencia de otras páginas en que es un hostel con muy buenos precios, que se encuentra en una zona histórica y está restaurado pero conserva su toque antiguo.
 
-![Método UX](img/Persona.png) 1.b Persona
+### ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 Hemos creado dos usuarios.
@@ -43,7 +43,7 @@ Se ha escogido a Sophie porque es un perfil joven y un poco solitario que quiere
 Por otro lado está Steve, se trata de un perfil más adulto que quiere disfrutar tanto de su pareja como de su trabajo.
 ![Image text](.P1/Steve_UserPersona.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+### ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
 Se han escogida estas experiencias de usuario porque son comunes, el problema con el idioma, que no haya alojamiento y las diferentes actividades que pueden ofrecer.
@@ -51,7 +51,7 @@ Se han escogida estas experiencias de usuario porque son comunes, el problema co
 ![Image text](./P1/Steve_JourneyMap.png)
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+### ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de
 la usabilidad.
@@ -66,7 +66,7 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 ## Paso 2. UX Design
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+### ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
@@ -85,17 +85,17 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis
+### ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
 
 >>> Definir "User Map" y "Task Flow" ...
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
+### ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
 
@@ -106,7 +106,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+### ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación )
@@ -115,7 +115,7 @@ Término | Significado
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+### ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
 
@@ -124,25 +124,25 @@ Término | Significado
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+### ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
 >>> Plantear Landing Page
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+### ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Estudio de Guidelines y Patrones IU a usar
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
-![Método UX](img/mockup.png)  3.d Mockup
+### ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
+### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
@@ -153,14 +153,14 @@ Término | Significado
 ## Paso 4. Evaluación
 
 
-![Método UX](img/ABtesting.png) 4.a Caso asignado
+### ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
-![Método UX](img/usability-testing.png) 4.b User Testing
+### ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
@@ -174,7 +174,7 @@ Término | Significado
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+### ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -184,7 +184,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal
 
 
-![Método UX](img/usability-report.png) 4.d Usability Report
+### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
@@ -197,8 +197,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
->>>> ----
+### ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+----
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
 

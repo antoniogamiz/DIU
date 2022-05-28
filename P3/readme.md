@@ -62,4 +62,6 @@ Con los prototipos y el moodboard hemos creado con ProtoPie el Mockup de web don
 Se puede ver en el siguiente link: - [https://cloud.protopie.io/p/b8f782c511](https://cloud.protopie.io/p/b8f782c511)
 
 ## Documentación: Publicación del Case Study
+Se puede ver en el siguiente link: - [https://antoniogamiz.github.io/DIU/](https://antoniogamiz.github.io/DIU/)
+
  

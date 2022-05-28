@@ -52,9 +52,8 @@ Se han escogida estas experiencias de usuario porque son comunes, el problema co
 
 
 ### ![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
-Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de
-la usabilidad.
+
+Tras haber realizado el análisis de las distintas experiencias de usuario que hemos contemplado y el análisis práctico de la página web, hemos completado el análisis de la usabilidad.
 
 [Enlace (pdf)](./P1/Usability-review-template.pdf)
 
@@ -68,42 +67,39 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 
 ### ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+Tras analizar las sensaciones de Sophie y Steven, hemos creado lo siguiente:
+![Image text](./P2/malla-receptora-informacion.png)
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
-
-
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+Intentaremos mejor y solucionar los problemas que surgen con nuestra propuesta. Se trata de una web que promueve las actividades que se realizarán en el hostel y las instalaciones que tiene. 
 
 ### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
->>> Propuesta de valor
+
+Hemos recogido las ideas del proyecto en el siguiente scope canvas.
+![Image text](./P2/scope-canvas.png)
+
 
 ### ![Método UX](img/Sitemap.png) 2.b Tasks analysis
------
-
->>> Definir "User Map" y "Task Flow" ...
-
+Al ser necesario pensar los diferentes tipos de usuarios que pueden visualizar la aplicación, hemos creado la siguiente tasks analysis:
+![Image text](./P2/user-matrix.png)
 
 ### ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
-----
 
+![Image text](./P2/sitemap.png)
 
 >>> Identificar términos para diálogo con usuario
 
 Término | Significado
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Inicio  | Se trata de la página principal del sitio. 
+  Actividades | En esta página podremos ver las diferentes actividades que se ofertan en el hostel.
+  Instalaciones | En esta página podremos ver las diferentes instalaciones que ofrece el sitio.
+  Reservas | Podremos hacer las reservas de las actividades
+  Galeria | Podremos ver las imagenes de las diferentes actividades
+  Contacto | Podremos acceder a los datos de contacto para preguntar nuestras dudas.
+  Actividades deportivas | Podremos acceder a las actividades que son únicamente deportivas
+  Actividades culturales |  Podremos acceder a las actividades que son únicamente culturales
+  Actividades Nocturnas | Podremos acceder a las actividades que son únicamente nocturnas
+  
 
 
 ### ![Método UX](img/Wireframes.png) 2.d Wireframes

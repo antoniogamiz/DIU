@@ -86,7 +86,6 @@ Al ser necesario pensar los diferentes tipos de usuarios que pueden visualizar l
 
 ![Image text](./P2/sitemap.png)
 
->>> Identificar términos para diálogo con usuario
 
 Término | Significado
 | ------------- | -------
@@ -104,46 +103,95 @@ Término | Significado
 
 ### ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+![Image text](./P2/index.png)
+![Image text](./P2/actividades.png)
+![Image text](./P2/galeria.png)
+![Image text](./P2/instalaciones.png)
+![Image text](./P2/reserva.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
 ### ![Método UX](img/moodboard.png) 3.a Moodboard
------
 
+Creamos un tablón con las diferentes ideas para llevar a cabo el estilo visual final. En él hemos plasmado los logos posibles, la tipografía que hemos elegido, la paleta de colores e imagenes junto con iconos de inspiración.
+![Image text](./P3/moodboard.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard)
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
 ### ![Método UX](img/landing-page.png)  3.b Landing Page
-----
+Partiendo del Wireframe diseñado en la práctica anterior hemos diseñado el landing page. Lo hemos hecho es crear un diseño sencillo que seduzca a nuestro usuario, para ello hemos creado un logo parecido al que tiene la página pero que llama más la atención, y un título atractivo dentro de la imagen de inicio.
 
+Para realizarlo hemos usado Protopie.
 
->>> Plantear Landing Page
+Puedes visualizarlo en el siguiente enlace - [https://cloud.protopie.io/p/b8f782c511](https://cloud.protopie.io/p/b8f782c511).
+![Image text](./P3/landing.png)
+
 
 ### ![Método UX](img/guidelines.png) 3.c Guidelines
-----
 
->>> Estudio de Guidelines y Patrones IU a usar
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+### Logotipo
+
+Para el logotipo hemos diseñado dos tipos de logotipos y tras revisarlos, hemos decidido quedarnos con el primero ya que llama más la atención y potencia el nombre del hostel.
+
+Logos iniciales:
+
+![Logotipo inicial](./P3/logotipo.png)
+![Logotipo inicial](./P3/logotipo2.png)
+
+
+El logo finalmente escogido:
+
+![Logotipo final](./P3/logotipo.png)
+
+
+### Paleta de colores
+A partir de las imagenes de inspiración del Moodboard, hemos creado la siguiente paleta de colores. Al ser una página donde se ofertan actividades hemos visto que el verde y las tonalidades marrones nos recuerdan a la naturaleza (actividades en la naturaleza) y a los monumentos y zonas turísticas (actividades culturales).
+
+![Paleta de colores](./P3/paleta_colores.png)
+
+Los códigos hexadecimales son: 
+- Negro #000000
+- Verde #70877F
+- Salmón #E59F71
+- Teja #942911
+- Beige #E9D2C0
+
+### Iconos
+
+Los iconos que hemos elegido pensamos que en tono oscuro pueden quedar bien en la web. Estos iconos son representativos y simples, por tanto pueden hacer que el usuario de un solo vistazo pueda localizar las actividades del tema que le interesan.
+
+![Iconos](./P3/iconos.png)
+
+### Tipografía
+
+En esta ocasión hemos marcado tres tipos diferentes de caligrafía.
+
+- Títulos: se usaría Fira Sans Extrabold ya que es una tipografía Sans que es legible en todos sus formatos y es atractiva a la vista. 
+- Subtítulos: usaríamos el mismo tipo que la anterior pero en su versión Fira Sans Bold.
+- Texto: Lato es un tipo de letra que se recomienda en textos digitales debido a su neutralidad y funcionalidad. 
+
+![Tipografía](./P3/tipografia.png)
+![Muestra](./P3/demostracion.png)
+
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
-----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Con los prototipos y el moodboard hemos creado con ProtoPie el Mockup de web donde se pueden observar las diferentes actividades que se ofertan, filtrarlas, y acceder dentro de cada actividad a su descripción y fotografías. 
+
+Se puede ver en el siguiente link: - [https://cloud.protopie.io/p/b8f782c511](https://cloud.protopie.io/p/b8f782c511)
+
+![Image text](./P3/landing.png)
+![Image text](./P3/landing2.png)
+![Image text](./P3/contacto.png)
+![Image text](./P3/actividad.png)
+
 
 
 ### ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+El resultado del estudio lo podremos ver en el siguiente enlace - [https://antoniogamiz.github.io/DIU/](https://antoniogamiz.github.io/DIU/)
 
 
 ## Paso 4. Evaluación

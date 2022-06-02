@@ -70,7 +70,7 @@ La web tiene fallos importantes de diseño ya que no se pueden ver todas las act
 Tras analizar las sensaciones de Sophie y Steven, hemos creado lo siguiente:
 ![Image text](./P2/malla-receptora-informacion.png)
 
-Intentaremos mejor y solucionar los problemas que surgen con nuestra propuesta. Se trata de una web que promueve las actividades que se realizarán en el hostel y las instalaciones que tiene. 
+Intentaremos mejor y solucionar los problemas que surgen con nuestra propuesta. Se trata de una web que promueve las actividades que se realizarán en el hostel y las instalaciones que tiene.
 
 ### ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 
@@ -89,7 +89,7 @@ Al ser necesario pensar los diferentes tipos de usuarios que pueden visualizar l
 
 Término | Significado
 | ------------- | -------
-  Inicio  | Se trata de la página principal del sitio. 
+  Inicio  | Se trata de la página principal del sitio.
   Actividades | En esta página podremos ver las diferentes actividades que se ofertan en el hostel.
   Instalaciones | En esta página podremos ver las diferentes instalaciones que ofrece el sitio.
   Reservas | Podremos hacer las reservas de las actividades
@@ -98,7 +98,7 @@ Término | Significado
   Actividades deportivas | Podremos acceder a las actividades que son únicamente deportivas
   Actividades culturales |  Podremos acceder a las actividades que son únicamente culturales
   Actividades Nocturnas | Podremos acceder a las actividades que son únicamente nocturnas
-  
+
 
 
 ### ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -151,7 +151,7 @@ A partir de las imagenes de inspiración del Moodboard, hemos creado la siguient
 
 ![Paleta de colores](./P3/paleta_colores.png)
 
-Los códigos hexadecimales son: 
+Los códigos hexadecimales son:
 - Negro #000000
 - Verde #70877F
 - Salmón #E59F71
@@ -168,9 +168,9 @@ Los iconos que hemos elegido pensamos que en tono oscuro pueden quedar bien en l
 
 En esta ocasión hemos marcado tres tipos diferentes de caligrafía.
 
-- Títulos: se usaría Fira Sans Extrabold ya que es una tipografía Sans que es legible en todos sus formatos y es atractiva a la vista. 
+- Títulos: se usaría Fira Sans Extrabold ya que es una tipografía Sans que es legible en todos sus formatos y es atractiva a la vista.
 - Subtítulos: usaríamos el mismo tipo que la anterior pero en su versión Fira Sans Bold.
-- Texto: Lato es un tipo de letra que se recomienda en textos digitales debido a su neutralidad y funcionalidad. 
+- Texto: Lato es un tipo de letra que se recomienda en textos digitales debido a su neutralidad y funcionalidad.
 
 ![Tipografía](./P3/tipografia.png)
 ![Muestra](./P3/demostracion.png)
@@ -178,7 +178,7 @@ En esta ocasión hemos marcado tres tipos diferentes de caligrafía.
 
 ### ![Método UX](img/mockup.png)  3.d Mockup
 
-Con los prototipos y el moodboard hemos creado con ProtoPie el Mockup de web donde se pueden observar las diferentes actividades que se ofertan, filtrarlas, y acceder dentro de cada actividad a su descripción y fotografías. 
+Con los prototipos y el moodboard hemos creado con ProtoPie el Mockup de web donde se pueden observar las diferentes actividades que se ofertan, filtrarlas, y acceder dentro de cada actividad a su descripción y fotografías.
 
 Se puede ver en el siguiente link: - [https://cloud.protopie.io/p/b8f782c511](https://cloud.protopie.io/p/b8f782c511)
 
@@ -207,26 +207,31 @@ El resultado del estudio lo podremos ver en el siguiente enlace - [https://anton
 ### ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+| Id | Usuarios      | Sexo/Edad              | Ocupación           |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+|-------------| ------------- | --------               | -----------         | ----------- | -----------  | ---------- | ----
+| 1 | Elena         | M (con familia) / 34   | Diseñadora gráfica  | Alto        | Feliz        | Web        | A
+| 2 | Juan José     | H (con amigos) / 20    | Estudiante          | Alto        | Disgustado   | Web        | B
+| 3 | Nerea         | M (yoga) / 23                 | Voluntariado        | Baja        | Emocional    | Web        | A
+| 4 | Juan          | H (mayor) / 52                 | Óptico              | Media       | Feliz        | Web        | B
 
+Para escoger los usuarios hemos lanzado los dados y hemos intentado buscar usuarios con ese perfil entre nuestros conocidos.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
-
+- Primer personaje: 2, 6, 3. Elena es una diseñadora gráfica que le gusta pasear por el campo con sus perros. Es una firme defensora
+de los animales. Trabaja en Badger Maps no solo como diseñadora gráfica pero también como UX Expert.
+- Segundo personaje: 3, 1, 5. Juan José estudia Ingeniería Informática y uno de sus principales pasatiempos es jugar a los videojuegos
+y salir por la noche con sus amigos.
+- Tercer personaje: 1, 2, 6. Nerea ha estudiado Bioquímica e intenterá ser profesora de biología en el futuro. Por ahora no quiere empezar a
+estudiar oposiciones por lo que va a viajar al extranjero a hacer tareas de voluntariado.
+- Cuarto personaje: 5, 6, 3. Juan es óptico y le encanta hacer senderismo en los alrededores de Granada.
 
 ### ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal
-
+![](./P4/report_1.png)
+![](./P4/report_2.png)
+![](./P4/report_3.png)
+![](./P4/report_4.png)
+![](./P4/report.png)
 
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -236,23 +241,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Valoración personal
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
-### ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
->>> 5.b) Uso de simuladores de accesibilidad
-
->>> (uso de tabla de datos, indicar herramientas usadas)
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
 
 
 ## Conclusión final / Valoración de las prácticas

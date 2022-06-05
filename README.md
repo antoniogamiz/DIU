@@ -236,17 +236,14 @@ estudiar oposiciones por lo que va a viajar al extranjero a hacer tareas de volu
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal
+Puedes visualizarlo en el siguiente enlace - [usability report](./P4/informe_usabilidad.pdf).
 
 
 ## Conclusión final / Valoración de las prácticas
 
+La metodología usada en las practicas nos ha permitido identificar poco a poco las necesidades de los usuarios a través de la información que hemos ido obteniendo durante los diferentes procesos. 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
+Hemos ido a mejorando poco a poco viendo los diferentes fallos que ibamos cometiendo, de esta manera hemos podido crear un microsite lo más completo posible y aplicando los conocimientos aprendidos en teoria. 
 
 
 

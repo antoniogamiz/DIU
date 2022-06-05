@@ -236,7 +236,7 @@ estudiar oposiciones por lo que va a viajar al extranjero a hacer tareas de volu
 ### ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Puedes visualizarlo en el siguiente enlace - [usability report](./P4/informe_usabilidad.pdf).
+Puedes visualizarlo en el siguiente enlace - [usability report](https://github.com/antoniogamiz/DIU/blob/master/P4/informe_usabilidad.pdf).
 
 
 ## Conclusión final / Valoración de las prácticas
